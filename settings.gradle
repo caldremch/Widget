@@ -1,1 +1,2 @@
+include ':app:samplewidget'
 include ':app', ':roundwidget'
